@@ -14,7 +14,7 @@
 Clone:
 
 - ``` git clone https://github.com/danvincenzi/dockerfile.git ```
-- ``` cd dockerfile/ruby/2.4.2 ```
+- ``` cd dockerfile/ruby/alpine/2.4.2 ```
 
 Build:
 
